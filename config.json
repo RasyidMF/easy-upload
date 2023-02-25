@@ -1,4 +1,6 @@
 {
     "key": "123",
-    "path": ""
+
+    "path_log": "/Log/upload.log",
+    "path": "/Test"
 }

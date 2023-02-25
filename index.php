@@ -21,5 +21,10 @@ App::check(function() {
         */
         Route::post('get-file', "FilesController@getFile");
 
+        /**
+         * Upload an file
+        */
+        Route::post('upload-file', "FilesController@uploadFile");
+
     });
 });
