@@ -1,6 +1,7 @@
 {
+    "host": "http://localhost:8890",
+    "version": "1.0",
     "key": "123",
-
     "path_log": "/Log/upload.log",
     "path": "/Test"
 }
